@@ -1,0 +1,26 @@
+_repo: The-Postal-System-of-the-United-States-and-the-New-York-General-Post-Office_44171
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44171-h/images/cover_image.jpg
+creator:
+  author:
+    agent_name: Jefferies, Thomas C.
+    gutenberg_agent_id: '42617'
+    url: http://www.gutenberg.org/2009/agents/42617
+description: ''
+gutenberg_issued: '2013-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44171'
+  lccn: '23006206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- United States'
+- !lcc 'HE'
+- !lcsh 'Postal service -- New York (State) -- New York'
+title: The Postal System of the United States and the New York General Post Office
+url: http://www.gutenberg.org/ebooks/44171
